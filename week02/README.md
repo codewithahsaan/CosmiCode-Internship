@@ -6,10 +6,72 @@ Virtual Internship doing Python Development
 
 ## ✅ Tasks Covered
 
-- Task 1: Use "Print" to Display Hello World in Output
-- Task 2: Create functions of modulo and power and main function and get familiar with conditions like if and elif
-- Task 3: Understand the variables and Data-types in Python and how to take inputs
-- Task 4: Datatype conversions Understand the variables and Data-types in Python and how to take inputs
+## ✅ Tasks Covered
+
+# 💻 Programming Tasks Summary
+
+---
+
+## ✅ Task 1: Prime Check & List Primes
+
+- Check if a given number is **prime**.
+- List **all prime numbers** up to a given number.
+- Used **looping up to √n** for optimization.
+- Applied **basic number theory** and **conditional logic**.
+
+---
+
+## ✅ Task 2: Fibonacci Sequence (Iterative & Recursive)
+
+- Generate the first 30 Fibonacci numbers using:
+  - **Iterative approach** (efficient for large values).
+  - **Recursive approach** (demonstrates function recursion).
+- Learned difference between **loop-based** and **recursive** algorithms.
+- Introduced to **base cases** in recursion.
+
+---
+
+## ✅ Task 3: GCD and LCM
+
+- Calculate the **Greatest Common Divisor (GCD)** using the **Euclidean Algorithm**.
+- Calculate the **Least Common Multiple (LCM)** using the formula:
+  LCM(a,b)=
+  GCD(a,b)
+  ∣a×b∣
+  ​
+- Practiced **function creation**, **integer division**, and **modulus operation**.
+
+---
+
+## ✅ Task 4: Prime Factorization
+
+- Extract all **prime factors** of a number.
+- Handled both even and odd factors.
+- Used **looping**, **modulus**, and **conditional checks** effectively.
+- Strengthened understanding of **prime decomposition**.
+
+---
+
+## ✅ Task 5: Kadane’s Algorithm (Maximum Subarray Sum)
+
+- Implemented **Kadane’s Algorithm** to find the **maximum subarray sum**.
+- Tracked:
+  - **Current sum** (`max_current`)
+  - **Maximum sum found so far** (`max_global`)
+  - **Subarray indices** for actual subarray extraction.
+- Learned basics of **dynamic programming** and **efficient array traversal**.
+
+---
+
+## 📚 Summary
+
+These tasks provided hands-on experience with:
+
+- **Mathematical algorithms**
+- **Array manipulation**
+- **Recursion vs iteration**
+- **Optimization techniques**
+- **Dynamic programming fundamentals**
 
 ---
 
@@ -22,7 +84,7 @@ Virtual Internship doing Python Development
 
 ### Task 2
 
-![Task 2 Code](<./screenshot/task02(1)_code.png>)
+![Task 2 Code](<./screenshot/task02_(1)code.png>)
 ![Task 2 output](./screenshot/task02_output.png)
 
 ### Task 3
