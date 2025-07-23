@@ -6,8 +6,11 @@ Virtual Internship doing Python Development
 
 ## ✅ Tasks Covered
 
+<<<<<<< Updated upstream
 ## ✅ Tasks Covered
 
+=======
+>>>>>>> Stashed changes
 # 💻 Programming Tasks Summary
 
 ---
